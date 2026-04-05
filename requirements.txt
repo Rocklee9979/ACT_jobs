@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+feedparser
+gspread
+google-auth
+pydantic
