@@ -1,4 +1,9 @@
+# OAuth and API secrets
+client_secret.json
 token.json
-client-secret.json
+api_key
 generate_token.py
+
+# Python cache
 __pycache__/
+*.pyc
